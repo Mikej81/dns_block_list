@@ -10,3 +10,4 @@
 0.0.0.0 youtu.be
 0.0.0.0 googleapis.com
 0.0.0.0 youtubekids.com
+0.0.0.0 www.youtubekids.com
